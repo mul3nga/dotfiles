@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = caesarlord11@gmail.com
+	name = Ceaser Mulenga
